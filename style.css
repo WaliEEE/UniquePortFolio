@@ -102,12 +102,16 @@ a:hover {
   width: 25%;
   height: 200px;
   margin-right: 25px;
+  border-radius: 100%;
+  border-style: groove;
 }
 
 .chilli-img {
   float: right;
   width: 25%;
   height: 200px;
+  border-radius: 100%;
+  border-style: groove;
 }
 
 .carousel-fade {
@@ -136,4 +140,8 @@ a:hover {
   padding: 25px;
   color: DarkBlue;
   font-size: 1rem;
+}
+
+.d-block {
+  border-style: groove;
 }
